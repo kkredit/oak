@@ -15,7 +15,7 @@ let g:oak#palette.leaf2   = '#2DC7D2'
 let g:oak#palette.leaf3   = '#42BD7D'
 let g:oak#palette.petal1  = '#FF4D4D'
 let g:oak#palette.petal2  = '#F0C54C'
-let g:oak#palette.sky1    = '#60F0F8'
+let g:oak#palette.sky1    = '#90F8FC'
 
 let g:oak#palette.fg = g:oak#palette.trunk5
 let g:oak#palette.bg = g:oak#palette.trunk1
